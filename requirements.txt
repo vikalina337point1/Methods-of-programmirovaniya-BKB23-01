@@ -1,0 +1,11 @@
+black==25.1.0
+email_validator==2.2.0
+Flask==3.1.0
+Flask-JWT-Extended==4.7.1
+Flask-Login==0.6.3
+Flask-RESTful==0.3.10
+Flask-SQLAlchemy==3.1.1
+Flask-WTF==1.2.2
+ipdb==0.13.13
+SQLAlchemy==2.0.38
+WTForms==3.2.1
